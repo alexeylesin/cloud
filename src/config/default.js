@@ -24,7 +24,7 @@ const config = {
   /**
    * Exactly the same `redirect_uri` in your Azure Application
    */
-  redirect_uri: 'https://files.alexeylesin.me',
+  redirect_uri: 'http://localhost',
 
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.

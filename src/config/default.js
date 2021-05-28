@@ -18,13 +18,13 @@ const config = {
   },
 
   refresh_token: REFRESH_TOKEN,
-  client_id: 'f8899892-fa4c-4fc0-87b5-12d20d29a294',
+  client_id: '1a75e2dd-2da3-4e6a-8366-654ba25975d3',
   client_secret: CLIENT_SECRET,
 
   /**
    * Exactly the same `redirect_uri` in your Azure Application
    */
-  redirect_uri: 'http://localhost',
+  redirect_uri: 'https://files.alexeylesin.me',
 
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
